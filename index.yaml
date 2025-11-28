@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  hello-deployment:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-11-27T23:54:11.709108-05:00"
+    description: My custom Helm chart deployment for my development plan
+    digest: 359b7ab975073aa3fdfd4d325a1bdb4acaf3c83cae3236eeb85612cdd66483dc
+    icon: https://external-content.duckduckgo.com/ip3/www.iriusrisk.com.ico
+    maintainers:
+    - email: jkatz@iriusrisk.com
+      name: Jkatz
+    name: hello-deployment
+    type: application
+    urls:
+    - https://katzenyo.github.io/hello-deploment/hello-deployment-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-11-27T23:54:11.708249-05:00"
